@@ -32,3 +32,10 @@ void mahasiswa::printAll()
     cout << endl;
 }
 
+int main()
+{
+    mahasiswa mhs1("Rafa sewot")
+    mahasiswa mhs2("Zaki prima")
+    
+}
+
