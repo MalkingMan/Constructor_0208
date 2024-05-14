@@ -10,4 +10,9 @@ class mahasiswa
     public:
         int id;
         string nama;
+
+        void setID();
+        void printAll();
+
+        
 }
