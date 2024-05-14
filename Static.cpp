@@ -16,4 +16,12 @@ public:
         nama = pnama;
         setID;
     }
+};
+
+int mahasiswa::nim = 208;
+
+void mahasiswa::setID()
+{
+    id = ++nim
+}
 
