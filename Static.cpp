@@ -34,8 +34,9 @@ void mahasiswa::printAll()
 
 int main()
 {
-    mahasiswa mhs1("Rafa sewot")
-    mahasiswa mhs2("Zaki prima")
-    
+    mahasiswa mhs1("Rafa sewot");
+    mahasiswa mhs2("Vardrid");
+    mahasiswa mhs3("decul kalahan");
+    mahasiswa mhs4("Penaldo")
 }
 
