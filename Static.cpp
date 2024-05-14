@@ -38,5 +38,10 @@ int main()
     mahasiswa mhs2("Vardrid");
     mahasiswa mhs3("decul kalahan");
     mahasiswa mhs4("Penaldo")
+
+
+    mhs1.printAll();
+    mhs2.printAll();
+
 }
 
